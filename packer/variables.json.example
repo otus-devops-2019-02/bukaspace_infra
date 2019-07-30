@@ -1,0 +1,10 @@
+
+{
+
+	"project_id": "infra-tobe-named",
+
+	"machine_type": "f1-micro",
+
+	"image_family": "reddit-full"
+
+}
