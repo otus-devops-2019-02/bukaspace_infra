@@ -1,10 +1,12 @@
 
 {
 
-	"project_id": "infra-tobe-named",
+    "project_id": "rugged-research-213",
 
-	"machine_type": "f1-micro",
+    "source_image_family": "ubuntu-1604-lts",
 
-	"image_family": "reddit-full"
+    "machine_type": "f1-micro"
 
 }
+
+
