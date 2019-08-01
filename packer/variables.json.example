@@ -1,12 +1,7 @@
-
 {
-
-    "project_id": "rugged-research-213",
-
+    "project_id": "planar-granite-2014",
     "source_image_family": "ubuntu-1604-lts",
-
     "machine_type": "f1-micro"
-
 }
 
 
